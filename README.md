@@ -15,7 +15,7 @@ Spresense Extension は、VS Code に Spresense 用 Extension を追加する事
 
 当Repositoryの[Issues](https://github.com/sonydevworld/spresense-vscode-alpha/issues)において、フィードバックを投稿することができます。
 
-フィードバックの質問項目は[こちら](http://)から確認できます。是非本Extensionの使用感などのフィードバックをよろしくお願いいたします。
+フィードバックの質問項目は[こちら](https://github.com/sonydevworld/spresense-vscode-alpha/blob/master/.github/ISSUE_TEMPLATE/feedback_ja.md)から確認できます。是非本Extensionの使用感などのフィードバックをよろしくお願いいたします。
 
 ## 免責事項
 
